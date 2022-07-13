@@ -161,12 +161,10 @@ const navigation = [
     ],
   },
   {
-    title: 'API reference',
+    title: 'Fastfield',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Basics', href: '/docs/fastfield-basics' },
+      { title: 'Advanced', href: '/docs/fastfield-advanced' },
     ],
   },
 ]
